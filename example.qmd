@@ -11,3 +11,7 @@ This is a simple Quarto file.
 \## Test
 
 Content RStudio + Git + GitHub Demo!
+
+\## Modified in main branch\
+
+This content is added in the main branch (conflicting with testbranch).
