@@ -8,10 +8,12 @@ editor: visual
 
 This is a simple Quarto file.
 
-\## Test
+\## Test Content \
+RStudio + Git + GitHub Demo!
 
-Content RStudio + Git + GitHub Demo!
+## Merged Content (main + testbranch)
 
-\## Modified in main branch\
+This content combines changes from both main and testbranch branches.
+- Main branch: Conflicting content example.
+- Testbranch: Added section example.
 
-This content is added in the main branch (conflicting with testbranch).
